@@ -1,0 +1,6 @@
+{
+  "name": "Animated Cute AI",
+  "description": "An interactive, animated AI companion with adorable visual emotions and physical reaction states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
